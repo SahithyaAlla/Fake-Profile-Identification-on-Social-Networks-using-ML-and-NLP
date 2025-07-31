@@ -1,0 +1,48 @@
+Service Provider
+
+Login,
+Train & Test User Profile DataSets, 
+View User Profile Trained and Tested Accuracy in Bar Chart, 
+View User Profile Trained and Tested Accuracy Results, 
+View All Profile Identity Prediction, 
+Find and View Profile Identity Prediction Ratio, 
+View User Profile Identity Ratio Results, 
+Download Predicted Data Sets, 
+View All Remote Users.
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT PROFILE IDENTIFICATION STATUS,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+prof_idno,
+name,
+screen_name,
+statuses_count,
+followers_count,
+friends_count,
+created_at,
+location,
+default_profile,
+prf_image_url,
+prf_banner_url,
+prf_bgimg_https,
+prf_text_color,
+profile_image_url_https,
+prf_bg_title,
+profile_background_image_url,
+description,
+Prf_updated,
+Prediction,
+
+
+
+
+
+
